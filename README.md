@@ -46,4 +46,5 @@ For each character in the ciphertext:
 The XOR rotating hash provides a fingerprint of the ciphertext:
 - XOR each character's numeric value with current hash
 - Rotate hash left by 5 bits after each XOR
+<img width="355" height="220" alt="image" src="https://github.com/user-attachments/assets/3b5693a0-3e63-4a98-834b-ba1d4272491e" />
 
